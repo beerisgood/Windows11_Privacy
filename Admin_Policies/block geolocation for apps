@@ -1,0 +1,11 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\LocationAndSensors
+and change DWORD strings
+DisableLocation
+DisableWindowsLocationProvider
+DisableLocationScripting
+to
+1
+
+
+Finish.
