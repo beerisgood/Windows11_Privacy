@@ -1,0 +1,9 @@
+Go to
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Privacy
+and change the DWORD string 
+TailoredExperiencesWithDiagnosticDataEnabled
+to
+0
+
+
+Finish. No restart required. You can config this in Windows privacy settings too.
