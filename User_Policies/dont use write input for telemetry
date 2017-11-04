@@ -1,0 +1,19 @@
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\Input\TIPC
+and change the DWORD string
+Enabled
+to
+0
+
+&
+
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\InputPersonalization
+and change the DWORD strings
+RestrictImplicitInkCollection
+RestrictImplicitTextCollection
+both to
+1
+
+
+Finish. No restart required. You can config this in Windows privacy settings too.
