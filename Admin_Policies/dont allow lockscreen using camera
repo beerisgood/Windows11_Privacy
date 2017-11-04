@@ -1,0 +1,9 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization
+and change DWORD string
+NoLockScreenCamera
+to
+1
+
+
+Finish.
