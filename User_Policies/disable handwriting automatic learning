@@ -1,0 +1,13 @@
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\Personalization\Settings
+and change the DWORD string
+AcceptedPrivacyPolicy
+to
+0
+and change the DWORD string
+RestrictImplicitInkCollection
+to
+1
+
+
+Finish. No restart required. You can config this in Windows privacy settings too.
