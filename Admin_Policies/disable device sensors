@@ -1,0 +1,9 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\LocationAndSensors
+and change DWORD string
+DisableSensors
+to
+1
+
+
+Finsih.
