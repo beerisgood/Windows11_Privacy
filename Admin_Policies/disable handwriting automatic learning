@@ -1,0 +1,15 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\InputPersonalization
+and change the DWORD strings
+RestrictImplicitInkCollection
+RestrictImplicitTextCollection
+to
+1
+
+and the DWORD string
+AllowInputPersonalization
+to
+0
+
+
+Finish.
