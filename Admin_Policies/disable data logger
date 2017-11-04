@@ -1,0 +1,9 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection
+and change the DWORD string
+AllowTelemetry
+to
+0
+
+
+Finish.
