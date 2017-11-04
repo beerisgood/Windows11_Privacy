@@ -1,0 +1,9 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-3279004032-3361476492-3816944365-1001\SocialNetworks\FACEBOOK
+and change the DWORD string
+OptInStatus
+to
+0
+
+
+Finish. restart required.
