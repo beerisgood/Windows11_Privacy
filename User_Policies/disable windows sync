@@ -1,0 +1,9 @@
+Not needed/ already disabled if a local Windows account is in use.
+If you need a Microsoft online account, then come back.
+
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\SettingSync
+and change the DWORD string
+SyncPolicy
+to
+5
