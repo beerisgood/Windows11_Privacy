@@ -1,0 +1,12 @@
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager
+and change the DWORD strings
+RotatingLockScreenEnabled
+RotatingLockScreenOverlayEnabled
+SystemPaneSuggestionsEnabled
+SoftLandingEnabled
+to
+0
+
+
+Finish. No restart required. You can config this in Windows privacy settings too.
