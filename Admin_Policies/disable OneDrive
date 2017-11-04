@@ -1,0 +1,26 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\OneDrive
+and change DWORD strings
+DisableFileSyncNGSC
+DisableLocation
+DisableLibrariesDefaultSaveToOneDrive
+DisableFileSync
+to
+1
+
+and DWORD string
+DisableMeteredNetworkFileSync
+to
+0
+
+&
+
+Go to
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Storage\EnabledDenyGP
+and change DWORD string
+DenyAllGPState
+to
+1
+
+
+Finish.
