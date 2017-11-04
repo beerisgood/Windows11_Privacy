@@ -1,0 +1,9 @@
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\GameBar
+and change the DWORD string
+ShowStartupPanel
+to
+0
+
+
+Finish. No restart required. You can config this in Windows settings too.
