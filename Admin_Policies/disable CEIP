@@ -1,0 +1,20 @@
+CEIP is Customer Experience Improvement Program which collect telemetry data.
+
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\SQMClient\Windows
+and change the DWORD string
+CEIPEnable
+to
+0
+
+&
+
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Messenger\Client
+and change the DWORD string
+CEIP
+to
+2
+
+
+Finish.
