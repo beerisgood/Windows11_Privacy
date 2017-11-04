@@ -1,0 +1,34 @@
+This is not needed if the player is disabled or uninstalled
+
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\MediaPlayer\Preferences
+and change the DWORD strings
+UsageTracking
+MetadataRetrieval
+SilentAcquisition
+to
+0
+
+the DWORD string
+DisableLicenseRefresh
+to
+1
+
+the string
+SendUserGUID
+to
+00
+
+
+&
+
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\PREFERENCES\HME\S-1-5-21-3279004032-3361476492-3816944365-1001
+and change the DWORD strings
+UsageTracking
+ForceUsageTracking
+both to
+0
+
+
+Finish. No restart required.
