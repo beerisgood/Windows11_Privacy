@@ -1,0 +1,24 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search
+and change DWORD strings
+AllowCloudSearch
+AllowCortana
+AllowSearchToUseLocation
+ConnectedSearchUseWeb
+ConnectedSearchUseWebOverMeteredConnections
+to
+0
+
+and change DWORD strings
+ConnectedSearchPrivacy
+ConnectedSearchSafeSearch
+to
+3
+
+and change DWORD string
+DisableWebSearch
+to
+1
+
+
+Finish.
