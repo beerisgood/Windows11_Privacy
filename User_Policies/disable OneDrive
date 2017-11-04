@@ -1,0 +1,29 @@
+This can make problems with windows mail app (if need that, leave this here)
+
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OneDrive
+and change the DWORD string
+PreventNetworkTrafficPreUserSignIn
+to
+1
+
+&
+
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\OneDrive
+and change the DWORD string
+DisablePersonalSync
+to
+1
+
+&
+
+Go to
+HKEY_CURRENT_USER\Software\Classes\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+and change the DWORD string
+System.IsPinnedToNameSpaceTree
+to
+0
+
+
+Finish. restart required.
