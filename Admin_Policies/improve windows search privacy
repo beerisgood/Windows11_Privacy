@@ -20,5 +20,14 @@ DisableWebSearch
 to
 1
 
+&
+
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\SearchCompanion
+and change DWORD string
+DisableContentFileUpdates
+to
+1
+
 
 Finish.
