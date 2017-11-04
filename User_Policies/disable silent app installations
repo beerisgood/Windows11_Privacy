@@ -1,0 +1,9 @@
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager
+and change the DWORD string
+SilentInstalledAppsEnabled
+to
+0
+
+
+Finish.
