@@ -1,0 +1,20 @@
+This is only needed if you use a Tablet / Touchscreen device.
+
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\TabletPC
+and change DWORD string
+PreventHandwritingDataSharing
+to
+1
+
+
+Finish.
+
+
+For enterprise and education versions only: 
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
+and change DWORD string
+DisableWindowsConsumerFeatures
+to
+1
