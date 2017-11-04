@@ -1,0 +1,9 @@
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\Sensor\Permissions\{BFA794E4-F964-4FDB-90F6-51056BFE4B44}
+and change the DWORD string
+SensorPermissionState
+to
+0
+
+
+Finish. No restart required. You can config this in Windows privacy settings too.
