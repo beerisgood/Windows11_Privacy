@@ -1,0 +1,8 @@
+Do this at your own risk. The smartscreen filter is a security feature of Windows.
+
+Go to
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\AppHost
+and change the DWORD string
+EnableWebContentEvaluation
+to
+0
