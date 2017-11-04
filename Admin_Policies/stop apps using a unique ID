@@ -1,0 +1,9 @@
+Go to
+HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\AdvertisingInfo
+and change the DWORD string
+DisabledByGroupPolicy
+to
+1
+
+
+Finish.
