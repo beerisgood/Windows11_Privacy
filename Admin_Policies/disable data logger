@@ -5,5 +5,23 @@ AllowTelemetry
 to
 0
 
+&
+
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataCollection
+and change the DWORD string
+AllowTelemetry
+to
+0
+
+&
+
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\DataCollection
+and change the DWORD string
+AllowTelemetry
+to
+0
+
 
 Finish.
