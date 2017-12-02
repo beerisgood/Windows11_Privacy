@@ -1,0 +1,6 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search
+and change DWORD string
+AllowCortana
+to
+0
