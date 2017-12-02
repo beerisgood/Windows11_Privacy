@@ -1,0 +1,11 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+and change the DWORD string
+dontdisplaylastusername
+to
+1
+
+Finish.
+
+Or for Group Policy Editor:
+Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Options
