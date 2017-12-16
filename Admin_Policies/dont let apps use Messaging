@@ -1,0 +1,9 @@
+Go to
+HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\AppPrivacy
+and change DWORD string
+LetAppsAccessMessaging
+to
+2
+
+
+Finish.
