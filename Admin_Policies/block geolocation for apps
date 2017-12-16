@@ -7,5 +7,13 @@ DisableLocationScripting
 to
 1
 
+&
+
+Go to
+HKEY_LOCAL_MACHINE\Policies\Microsoft\Windows\AppPrivacy
+and change DWORD string
+LetAppsAccessLocation
+to
+2
 
 Finish.
