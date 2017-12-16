@@ -14,5 +14,13 @@ value
 to
 0
 
+&
+
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\config
+and change the DWORD string
+AutoConnectAllowedOEM
+to
+0
 
 Finish.
