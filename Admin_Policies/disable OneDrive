@@ -5,6 +5,7 @@ DisableFileSyncNGSC
 DisableLocation
 DisableLibrariesDefaultSaveToOneDrive
 DisableFileSync
+PreventNetworkTrafficPreUserSignIn
 to
 1
 
