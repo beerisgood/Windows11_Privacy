@@ -1,0 +1,11 @@
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Maps
+and change DWORD strings
+AutoDownloadAndUpdateMapData
+&
+AllowUntriggeredNetworkTrafficOnSettingsPage
+to
+0
+
+
+Finish.
