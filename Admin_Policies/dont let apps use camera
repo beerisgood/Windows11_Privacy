@@ -1,0 +1,8 @@
+Go to
+HKEY_LOCAL_MACHINE\Policies\Microsoft\Windows\AppPrivacy
+and change DWORD string
+LetAppsAccessCamera
+to
+2
+
+Finish.
