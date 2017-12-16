@@ -9,6 +9,7 @@ For a nice automatic runnable script, see https://github.com/Disassembler0/Win10
 
 If you want completely uninstall OneDrive in Windows 10, see https://github.com/TERRAOperative/OneDrive-Uninstaller
 
+Also see https://docs.microsoft.com/en-us/windows/configuration/manage-connections-from-windows-operating-system-components-to-microsoft-services
 
 All my commits are signed with my GPG Key:
 
