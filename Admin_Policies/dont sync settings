@@ -1,0 +1,17 @@
+Go to
+HKEY_LOCAL_MACHINE\Policies\Microsoft\Windows\SettingSync
+and change DWORD string
+DisableSettingSync
+to
+2
+
+&
+
+Go to
+HKEY_LOCAL_MACHINE\Policies\Microsoft\Windows\SettingSync
+and change DWORD string
+DisableSettingSyncUserOverride
+to
+1
+
+Finish.
