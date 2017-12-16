@@ -11,5 +11,13 @@ AllowInputPersonalization
 to
 0
 
+&
+
+Go to
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech_OneCore\Preferences
+and change the DWORD string
+ModelDownloadAllowed
+to
+0
 
 Finish.
