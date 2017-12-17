@@ -5,7 +5,7 @@ This is my guide for stop & config Telemetry under Windows 10 x64
 *Currently i use that tools to get my configs: https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/  
 I will add own stuff too*
 
-For a nice automatic runnable script, see https://github.com/Disassembler0/Win10-Initial-Setup-Script
+For a nice automatic runnable script, see https://github.com/Disassembler0/Win10-Initial-Setup-Script & https://github.com/W4RH4WK/Debloat-Windows-10
 
 If you want completely uninstall OneDrive in Windows 10, see https://github.com/TERRAOperative/OneDrive-Uninstaller
 
