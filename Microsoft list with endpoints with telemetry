@@ -1,0 +1,12 @@
+*From https://docs.microsoft.com/en-us/windows/configuration/configure-windows-telemetry-in-your-organization*
+
+Service 							Endpoint
+-------								--------
+Connected User Experience and Telemetry component 		v10.vortex-win.data.microsoft.com
+							        settings-win.data.microsoft.com
+														
+Windows Error Reporting 					watson.telemetry.microsoft.com
+
+Online Crash Analysis 						oca.telemetry.microsoft.com
+
+OneDrive app for Windows 10 			                vortex.data.microsoft.com/collect/v1
