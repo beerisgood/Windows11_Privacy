@@ -1,0 +1,11 @@
+Windows Error Reporting (WER) run automatically in background and send data back to Microsoft.
+Warning!: If you disable this, less data are send back to Microsoft, but they dont get your program start problems.
+
+Search at Windows start menu for task scheduler and disable:
+
+\microsoft\windows\windows error reporting\queuereporting
+
+
+Finish.
+
+*Info: to prevent problems only disable the tasks and not delete them.
