@@ -1,11 +1,9 @@
 Application Experience Program (AEP) run automatically in background and send data back to Microsoft.
-Search at Windows start menu for task scheduler and disable:
 
-\microsoft\windows\application experience\aitagent
-\microsoft\windows\application experience\microsoft compatibility appraiser
-\microsoft\windows\application experience\programdataupdater
+Open a commandline (CMD.exe) with adminrights and copy-paste every command:
+schtasks /change /TN "\microsoft\windows\application experience\aitagent" /DISABLE
+schtasks /change /TN "\microsoft\windows\application experience\microsoft compatibility appraiser" /DISABLE
+schtasks /change /TN "\microsoft\windows\application experience\programdataupdater" /DISABLE
 
 
-Finish.
-
-*Info: to prevent problems only disable the tasks and not delete them.
+Finish. no reboot required.
