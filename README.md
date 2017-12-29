@@ -2,7 +2,7 @@
 
 This is my guide for stop & config Telemetry under Windows 10 x64  
 
-*i use that tools to get my configs: https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/ & https://docs.microsoft.com/en-us/windows/configuration/manage-connections-from-windows-operating-system-components-to-microsoft-services*
+*to get more configs, see: https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/ & https://docs.microsoft.com/en-us/windows/configuration/manage-connections-from-windows-operating-system-components-to-microsoft-services and also read the great book from Martin Brinkmann: https://www.ghacks.net/2017/10/17/my-the-complete-windows-10-privacy-guide-book-is-out/*
 
 For a nice automatic runnable script, see https://github.com/Disassembler0/Win10-Initial-Setup-Script & https://github.com/W4RH4WK/Debloat-Windows-10
 
