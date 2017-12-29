@@ -8,6 +8,8 @@ For a nice automatic runnable script, see https://github.com/Disassembler0/Win10
 
 If you want completely uninstall OneDrive in Windows 10, see https://github.com/TERRAOperative/OneDrive-Uninstaller
 
+And dont forget this nice tool: https://github.com/crazy-max/WindowsSpyBlocker
+
 All my commits are signed with my GPG Key:
 
 ID 4AEE18F83AFDEB23 (0x620F071D)
