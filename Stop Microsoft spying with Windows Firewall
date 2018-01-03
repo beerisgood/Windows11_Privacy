@@ -1,10 +1,6 @@
-*From https://winaero.com/blog/stop-windows-10-spying-on-you-using-just-windows-firewall/*
-
 This list may be not up2date, so you should check https://github.com/crazy-max/WindowsSpyBlocker too
 
 Start a elevated command prompt and paste these commands:
-Set-NetFirewallProfile -all
-
 netsh advfirewall firewall add rule name="telemetry_vortex.data.microsoft.com" dir=out action=block remoteip=191.232.139.254 enable=yes
 
 netsh advfirewall firewall add rule name="telemetry_telecommand.telemetry.microsoft.com" dir=out action=block remoteip=65.55.252.92 enable=yes
