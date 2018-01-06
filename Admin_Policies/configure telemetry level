@@ -14,3 +14,10 @@ to
 0
 
 Finish.
+
+
+Or as group policy:
+Computer Configuration > Administrative Templates > Windows Components > Data Collection and Feedback
+Double-click on “Allow Telemetry”.
+Set the policy to Enabled.
+Select level Basic
