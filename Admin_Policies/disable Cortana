@@ -1,6 +1,7 @@
 Go to
-HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search
-and change DWORD string
-AllowCortana
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\current\device\Experience
+(If Experience entry does not exist, create it)
+and change/ create the DWORD string
+Value
 to
 0
