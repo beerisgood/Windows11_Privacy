@@ -5,3 +5,9 @@ and change/ create the DWORD string
 Value
 to
 0
+
+Finish.
+
+Or for group policy:
+Computer Configuration > Administrative Templates > Windows Components > Search > Allow Cortana
+Disabled – Cortana is disabled.
