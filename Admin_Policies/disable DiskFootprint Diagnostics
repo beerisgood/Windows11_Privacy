@@ -1,0 +1,8 @@
+Disk Footprint collects drive usage statistics, and submits them to Microsoft if the user consented to participate in Windows CEIP.
+
+Go to
+Task Scheduler > Task Scheduler Library > Windows > DiskFootprint
+Stop and disable Diagnostics
+
+
+Finish.
