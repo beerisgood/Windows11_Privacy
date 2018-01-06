@@ -7,3 +7,8 @@ to
 
 
 Finish.
+
+
+Or for group policy:
+Computer Configuration > Administrative Templates > System > User Profiles > Turn off the advertising ID
+Set the policy to enabled
