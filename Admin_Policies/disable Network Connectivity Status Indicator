@@ -1,0 +1,15 @@
+Network Connectivity Status Indicator (NCSI) try to open a 4Byte Ncsi.txt textfile to test if your internet connection works or not.
+
+If a DNS request to 'dns.msftncsi.com' works but the file download fails, you got a message that your internet may be modified and see a info at network system tray icon.
+But even if the DNS query doesnt work, you got a network error-icon at network system tray icon.
+
+The best solution is just disable the windows service:
+
+Go to
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\services\NlaSvc\Parameters\Internet
+and change the DWORD string
+EnableActiveProbing
+to
+0
+
+Finish.
