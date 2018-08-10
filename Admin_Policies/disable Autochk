@@ -1,8 +1,0 @@
-This task collects and uploads autochk SQM data if opted-in to the Microsoft Customer Experience Improvement program (CEIP).
-
-Go to
-Task Scheduler > Task Scheduler Library > Windows > Autochk
-Stop and disable Proxy
-
-
-Finish.
