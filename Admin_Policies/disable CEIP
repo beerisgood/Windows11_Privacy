@@ -16,5 +16,26 @@ CEIP
 to
 2
 
+Also go to
+Task Scheduler > Task Scheduler Library > Windows > Customer Experience Improvement Program
+Stop and disable all entrys
+&
+Stop and disable
+"Application Experience"
++
+"ProgramDataUpdater"
+from Windows > Microsoft\Windows\Application Experience
+&
+Stop and disable
+"Proxy"
+from Windows > Autochk
+&
+Stop and disable
+"Microsoft-Windows-DiskDiagnosticDataCollector"
+from Windows > DiskDiagnostic
+&
+Stop and disable
+"Diagnostics"
+from > Windows > DiskFootprint
 
 Finish.
