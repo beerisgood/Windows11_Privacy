@@ -4,7 +4,7 @@ This is my guide for stop & config Telemetry under Windows 10 x64
 
 *to get more configs, see: https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/
 
-And see: https://docs.microsoft.com/en-us/windows/configuration/manage-connections-from-windows-operating-system-components-to-microsoft-services & https://docs.microsoft.com/en-us/windows/privacy/manage-windows-endpoints & https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1803-non-enterprise-editions
+And see: https://docs.microsoft.com/en-us/windows/configuration/manage-connections-from-windows-operating-system-components-to-microsoft-services & https://docs.microsoft.com/en-us/windows/privacy/manage-windows-endpoints & https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1803-non-enterprise-editions & https://docs.microsoft.com/en-us/windows/privacy/
 
 and also read the great book from Martin Brinkmann: https://www.ghacks.net/2017/10/17/my-the-complete-windows-10-privacy-guide-book-is-out/*
 
