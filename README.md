@@ -1,4 +1,4 @@
-# Windows10_Anti-Telemetry
+# Warning: This repo is outdated and need a rewrite!
 
 This is my guide for stop & config Telemetry under Windows 10 x64  
 
