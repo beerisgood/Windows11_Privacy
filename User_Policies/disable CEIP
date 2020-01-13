@@ -2,7 +2,6 @@ CEIP is Customer Experience Improvement Program which collect telemetry data.
 
 Open a commandline (CMD.exe) with adminrights and copy-paste every command:
 schtasks /change /TN "\Microsoft\Windows\Customer Experience Improvement Program\Consolidator" /DISABLE
-schtasks /change /TN "\Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask" /DISABLE
 schtasks /change /TN "\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" /DISABLE
 
 
