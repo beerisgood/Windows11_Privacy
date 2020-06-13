@@ -12,6 +12,7 @@ Reading material:
 And also read the great book from Martin Brinkmann: https://www.ghacks.net/2017/10/17/my-the-complete-windows-10-privacy-guide-book-is-out/*
 
 A nice tool to handle some stuff manually: https://github.com/mirinsoft/sharpapp
+
 Also here a website which display such settings: https://privacy.sexy/
 
 All my commits are signed with my GPG Key:
