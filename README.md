@@ -11,9 +11,7 @@ Reading material:
 
 and also read the great book from Martin Brinkmann: https://www.ghacks.net/2017/10/17/my-the-complete-windows-10-privacy-guide-book-is-out/*
 
-a nice tool to handle some stuff: https://github.com/mirinsoft/debotnet
-
-other's: https://github.com/Disassembler0/Win10-Initial-Setup-Script & https://github.com/W4RH4WK/Debloat-Windows-10
+a nice tool to handle some stuff manually: https://github.com/mirinsoft/sharpapp
 
 If you want completely uninstall OneDrive in Windows 10, see https://github.com/TERRAOperative/OneDrive-Uninstaller
 
