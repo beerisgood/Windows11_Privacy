@@ -13,8 +13,6 @@ and also read the great book from Martin Brinkmann: https://www.ghacks.net/2017/
 
 a nice tool to handle some stuff manually: https://github.com/mirinsoft/sharpapp
 
-If you want completely uninstall OneDrive in Windows 10, see https://github.com/TERRAOperative/OneDrive-Uninstaller
-
 All my commits are signed with my GPG Key:
 
 ID 4AEE18F83AFDEB23 (0x620F071D)
