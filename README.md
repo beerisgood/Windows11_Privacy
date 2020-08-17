@@ -1,6 +1,5 @@
 # Warning: This repo is outdated and need a rewrite!
 
-This is my guide for stop & config Telemetry under Windows 10 x64  
 
 Reading material:
 - https://docs.microsoft.com/en-us/windows/configuration/manage-connections-from-windows-operating-system-components-to-microsoft-services
@@ -8,10 +7,3 @@ Reading material:
 - https://privacy.microsoft.com/en-us/windows-10-feedback-diagnostics-and-privacy
 - https://docs.microsoft.com/en-us/windows/configuration/basic-level-windows-diagnostic-events-and-fields
 - https://docs.microsoft.com/en-us/windows/privacy/
-
-
-All my commits are signed with my GPG Key:
-
-ID 4AEE18F83AFDEB23 (0x620F071D)
-
-Fingerprint: 3D3AA8EA763AA97DA252071497F9E213620F071D
