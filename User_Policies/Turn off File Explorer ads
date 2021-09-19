@@ -1,9 +1,0 @@
-Go to
-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced
-and change the DWORD string
-ShowSyncProviderNotifications
-to
-0
-
-
-Finish. No restart required. You can config this in Windows explorer settings too.

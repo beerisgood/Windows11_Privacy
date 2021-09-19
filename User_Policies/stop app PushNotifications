@@ -1,9 +1,0 @@
-Go to
-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PushNotifications
-and change the DWORD string
-ToastEnabled
-to
-0
-
-
-Finish. No restart required. You can config this in Windows privacy settings too.

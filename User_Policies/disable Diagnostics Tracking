@@ -1,5 +1,0 @@
-Open a commandline (CMD.exe) with adminrights and copy-paste every command:
-schtasks /change /TN "\Microsoft\windows\diskdiagnostic\microsoft-windows-diskdiagnosticdatacollector" /DISABLE
-
-
-Finish. no reboot required.

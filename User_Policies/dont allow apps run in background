@@ -1,9 +1,0 @@
-Go to
-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications
-and change the DWORD string
-GlobalUserDisabled
-to
-1
-
-
-Finish. No restart required. You can config this in Windows privacy settings too.
