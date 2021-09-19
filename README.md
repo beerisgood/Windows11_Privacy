@@ -1,5 +1,3 @@
-# Warning: This repo is outdated and need a rewrite!
-
 ######  Reading material:
 - https://docs.microsoft.com/en-us/windows/configuration/manage-connections-from-windows-operating-system-components-to-microsoft-services
 - https://docs.microsoft.com/en-us/windows/privacy/manage-windows-endpoints
