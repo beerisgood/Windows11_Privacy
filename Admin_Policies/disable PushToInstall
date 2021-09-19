@@ -1,9 +1,0 @@
-Go to
-HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\PushToInstall
-and change the DWORD string
-DisablePushToInstall
-to
-1
-
-
-Finish.

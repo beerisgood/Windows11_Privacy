@@ -1,9 +1,0 @@
-Go to
-HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\PushNotifications
-and change DWORD string
-NoCloudApplicationNotification
-to
-1
-
-
-Finish.

@@ -1,9 +1,0 @@
-Go to
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\AppPrivacy
-and change DWORD string
-LetAppsAccessCalendar
-to
-2
-
-
-Finish.

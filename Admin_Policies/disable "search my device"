@@ -1,8 +1,0 @@
-Go to
-HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Device Metadata
-and change the DWORD string
-PreventDeviceMetadataFromNetwork
-to
-1
-
-Finish.

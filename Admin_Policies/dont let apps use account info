@@ -1,9 +1,0 @@
-Go to
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\AppPrivacy
-and change DWORD string
-LetAppsAccessAccountInfo
-to
-2
-
-
-Finish.

@@ -1,9 +1,0 @@
-Go to
-HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate
-and change the DWORD string
-ExcludeWUDriversInQualityUpdate
-to
-1
-
-
-Finish.

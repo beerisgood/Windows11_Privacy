@@ -1,9 +1,0 @@
-Go to
-HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Maps
-and change the DWORD string
-AutoDownloadAndUpdateMapData
-to
-0
-
-
-Finish.
